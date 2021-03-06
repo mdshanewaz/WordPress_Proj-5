@@ -8,55 +8,39 @@
 	>
 
 <channel>
-	<title>Uncategorized &#8211; My WordPress</title>
+	<title>Uncategorized &#8211; Portfolio</title>
 	<atom:link href="https://mdshanewaz.github.io/WordPress_Proj-5/category/uncategorized/feed/" rel="self" type="application/rss+xml" />
-	<link>https://mdshanewaz.github.io/WordPress_Proj-5/</link>
-	<description>My WordPress Blog</description>
-	<lastBuildDate>Wed, 03 Feb 2021 09:24:07 +0000</lastBuildDate>
+	<link>https://mdshanewaz.github.io/WordPress_Proj-5</link>
+	<description>Just another WordPress site</description>
+	<lastBuildDate>Sat, 06 Mar 2021 07:11:42 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.6</generator>
+	<generator>https://wordpress.org/?v=5.6.2</generator>
 
 <image>
-	<url>https://mdshanewaz.github.io/WordPress_Proj-5/wp-content/uploads/2021/02/LogoMakr-3ZCzbv-150x150.png</url>
-	<title>Uncategorized &#8211; My WordPress</title>
-	<link>https://mdshanewaz.github.io/WordPress_Proj-5/</link>
+	<url>https://mdshanewaz.github.io/WordPress_Proj-5/wp-content/uploads/2021/03/LogoMakr-6xurIF-150x150.png</url>
+	<title>Uncategorized &#8211; Portfolio</title>
+	<link>https://mdshanewaz.github.io/WordPress_Proj-5</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
-		<title>Business</title>
-		<link>https://mdshanewaz.github.io/WordPress_Proj-5/business/</link>
-					<comments>https://mdshanewaz.github.io/WordPress_Proj-5/business/#respond</comments>
-		
-		<dc:creator><![CDATA[newaz]]></dc:creator>
-		<pubDate>Wed, 03 Feb 2021 09:24:05 +0000</pubDate>
-				<category><![CDATA[Uncategorized]]></category>
-		<guid isPermaLink="false">https://mdshanewaz.github.io/WordPress_Proj-5/?p=75</guid>
-
-					<description><![CDATA[]]></description>
-										<content:encoded><![CDATA[]]></content:encoded>
-					
-					<wfw:commentRss>https://mdshanewaz.github.io/WordPress_Proj-5/business/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
-		
-		
-			</item>
-		<item>
 		<title>Photography</title>
 		<link>https://mdshanewaz.github.io/WordPress_Proj-5/photography/</link>
 					<comments>https://mdshanewaz.github.io/WordPress_Proj-5/photography/#respond</comments>
 		
 		<dc:creator><![CDATA[newaz]]></dc:creator>
-		<pubDate>Wed, 03 Feb 2021 09:22:52 +0000</pubDate>
+		<pubDate>Sat, 06 Mar 2021 07:11:41 +0000</pubDate>
 				<category><![CDATA[Uncategorized]]></category>
-		<guid isPermaLink="false">https://mdshanewaz.github.io/WordPress_Proj-5/?p=73</guid>
+		<guid isPermaLink="false">https://mdshanewaz.github.io/WordPress_Proj-5/?p=58</guid>
 
-					<description><![CDATA[]]></description>
-										<content:encoded><![CDATA[]]></content:encoded>
+					<description><![CDATA[As you can see from the above image, a Data Analyst usually explains what is going on by processing history of the data. On the other hand, Data Scientist not only does the exploratory analysis to discover insights from it, but also uses various advanced machine learning algorithms to identify the occurrence of a particular event [&#8230;]]]></description>
+										<content:encoded><![CDATA[
+<p>As you can see from the above image, a Data Analyst usually explains what is going on by processing history of the data. On the other hand, Data Scientist not only does the exploratory analysis to discover insights from it, but also uses various advanced machine learning algorithms to identify the occurrence of a particular event in the future. A Data Scientist will look at the data from many angles, sometimes angles not known earlier.As you can see from the above image, a Data Analyst usually explains what is going on by processing history of the data. On the other hand, Data Scientist not only does the exploratory analysis to discover insights from it, but also uses various advanced machine learning algorithms to identify the occurrence of a particular event in the future. A Data Scientist will look at the data from many angles, sometimes angles not known earlier.As you can see from the above image, a Data Analyst usually explains what is going on by processing history of the data. On the other hand, Data Scientist not only does the exploratory analysis to discover insights from it, but also uses various advanced machine learning algorithms to identify the occurrence of a particular event in the future. A Data Scientist will look at the data from many angles, sometimes angles not known earlier.As you can see from the above image, a Data Analyst usually explains what is going on by processing history of the data. On the other hand, Data Scientist not only does the exploratory analysis to discover insights from it, but also uses various advanced machine learning algorithms to identify the occurrence of a particular event in the future. A Data Scientist will look at the data from many angles, sometimes angles not known earlier.As you can see from the above image, a Data Analyst usually explains what is going on by processing history of the data. On the other hand, Data Scientist not only does the exploratory analysis to discover insights from it, but also uses various advanced machine learning algorithms to identify the occurrence of a particular event in the future. A Data Scientist will look at the data from many angles, sometimes angles not known earlier.As you can see from the above image, a Data Analyst usually explains what is going on by processing history of the data. On the other hand, Data Scientist not only does the exploratory analysis to discover insights from it, but also uses various advanced machine learning algorithms to identify the occurrence of a particular event in the future. A Data Scientist will look at the data from many angles, sometimes angles not known earlier.</p>
+]]></content:encoded>
 					
 					<wfw:commentRss>https://mdshanewaz.github.io/WordPress_Proj-5/photography/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
@@ -69,32 +53,16 @@
 					<comments>https://mdshanewaz.github.io/WordPress_Proj-5/web-design/#respond</comments>
 		
 		<dc:creator><![CDATA[newaz]]></dc:creator>
-		<pubDate>Wed, 03 Feb 2021 09:22:26 +0000</pubDate>
+		<pubDate>Sat, 06 Mar 2021 07:10:51 +0000</pubDate>
 				<category><![CDATA[Uncategorized]]></category>
-		<guid isPermaLink="false">https://mdshanewaz.github.io/WordPress_Proj-5/?p=70</guid>
+		<guid isPermaLink="false">https://mdshanewaz.github.io/WordPress_Proj-5/?p=55</guid>
 
-					<description><![CDATA[]]></description>
-										<content:encoded><![CDATA[]]></content:encoded>
+					<description><![CDATA[As you can see from the above image, a Data Analyst usually explains what is going on by processing history of the data. On the other hand, Data Scientist not only does the exploratory analysis to discover insights from it, but also uses various advanced machine learning algorithms to identify the occurrence of a particular event [&#8230;]]]></description>
+										<content:encoded><![CDATA[
+<p>As you can see from the above image, a Data Analyst usually explains what is going on by processing history of the data. On the other hand, Data Scientist not only does the exploratory analysis to discover insights from it, but also uses various advanced machine learning algorithms to identify the occurrence of a particular event in the future. A Data Scientist will look at the data from many angles, sometimes angles not known earlier.As you can see from the above image, a Data Analyst usually explains what is going on by processing history of the data. On the other hand, Data Scientist not only does the exploratory analysis to discover insights from it, but also uses various advanced machine learning algorithms to identify the occurrence of a particular event in the future. A Data Scientist will look at the data from many angles, sometimes angles not known earlier.As you can see from the above image, a Data Analyst usually explains what is going on by processing history of the data. On the other hand, Data Scientist not only does the exploratory analysis to discover insights from it, but also uses various advanced machine learning algorithms to identify the occurrence of a particular event in the future. A Data Scientist will look at the data from many angles, sometimes angles not known earlier.As you can see from the above image, a Data Analyst usually explains what is going on by processing history of the data. On the other hand, Data Scientist not only does the exploratory analysis to discover insights from it, but also uses various advanced machine learning algorithms to identify the occurrence of a particular event in the future. A Data Scientist will look at the data from many angles, sometimes angles not known earlier.As you can see from the above image, a Data Analyst usually explains what is going on by processing history of the data. On the other hand, Data Scientist not only does the exploratory analysis to discover insights from it, but also uses various advanced machine learning algorithms to identify the occurrence of a particular event in the future. A Data Scientist will look at the data from many angles, sometimes angles not known earlier.As you can see from the above image, a Data Analyst usually explains what is going on by processing history of the data. On the other hand, Data Scientist not only does the exploratory analysis to discover insights from it, but also uses various advanced machine learning algorithms to identify the occurrence of a particular event in the future. A Data Scientist will look at the data from many angles, sometimes angles not known earlier.</p>
+]]></content:encoded>
 					
 					<wfw:commentRss>https://mdshanewaz.github.io/WordPress_Proj-5/web-design/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
-		
-		
-			</item>
-		<item>
-		<title>Ecommerce Site</title>
-		<link>https://mdshanewaz.github.io/WordPress_Proj-5/ecommerce-site/</link>
-					<comments>https://mdshanewaz.github.io/WordPress_Proj-5/ecommerce-site/#respond</comments>
-		
-		<dc:creator><![CDATA[newaz]]></dc:creator>
-		<pubDate>Wed, 03 Feb 2021 09:20:49 +0000</pubDate>
-				<category><![CDATA[Uncategorized]]></category>
-		<guid isPermaLink="false">https://mdshanewaz.github.io/WordPress_Proj-5/?p=66</guid>
-
-					<description><![CDATA[]]></description>
-										<content:encoded><![CDATA[]]></content:encoded>
-					
-					<wfw:commentRss>https://mdshanewaz.github.io/WordPress_Proj-5/ecommerce-site/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
@@ -105,14 +73,36 @@
 					<comments>https://mdshanewaz.github.io/WordPress_Proj-5/data-science/#respond</comments>
 		
 		<dc:creator><![CDATA[newaz]]></dc:creator>
-		<pubDate>Wed, 03 Feb 2021 09:19:47 +0000</pubDate>
+		<pubDate>Sat, 06 Mar 2021 07:09:55 +0000</pubDate>
 				<category><![CDATA[Uncategorized]]></category>
-		<guid isPermaLink="false">https://mdshanewaz.github.io/WordPress_Proj-5/?p=63</guid>
+		<guid isPermaLink="false">https://mdshanewaz.github.io/WordPress_Proj-5/?p=52</guid>
 
-					<description><![CDATA[]]></description>
-										<content:encoded><![CDATA[]]></content:encoded>
+					<description><![CDATA[As you can see from the above image, a Data Analyst usually explains what is going on by processing history of the data. On the other hand, Data Scientist not only does the exploratory analysis to discover insights from it, but also uses various advanced machine learning algorithms to identify the occurrence of a particular event [&#8230;]]]></description>
+										<content:encoded><![CDATA[
+<p>As you can see from the above image, a Data Analyst usually explains what is going on by processing history of the data. On the other hand, Data Scientist not only does the exploratory analysis to discover insights from it, but also uses various advanced machine learning algorithms to identify the occurrence of a particular event in the future. A Data Scientist will look at the data from many angles, sometimes angles not known earlier.As you can see from the above image, a Data Analyst usually explains what is going on by processing history of the data. On the other hand, Data Scientist not only does the exploratory analysis to discover insights from it, but also uses various advanced machine learning algorithms to identify the occurrence of a particular event in the future. A Data Scientist will look at the data from many angles, sometimes angles not known earlier.As you can see from the above image, a Data Analyst usually explains what is going on by processing history of the data. On the other hand, Data Scientist not only does the exploratory analysis to discover insights from it, but also uses various advanced machine learning algorithms to identify the occurrence of a particular event in the future. A Data Scientist will look at the data from many angles, sometimes angles not known earlier.As you can see from the above image, a Data Analyst usually explains what is going on by processing history of the data. On the other hand, Data Scientist not only does the exploratory analysis to discover insights from it, but also uses various advanced machine learning algorithms to identify the occurrence of a particular event in the future. A Data Scientist will look at the data from many angles, sometimes angles not known earlier.As you can see from the above image, a Data Analyst usually explains what is going on by processing history of the data. On the other hand, Data Scientist not only does the exploratory analysis to discover insights from it, but also uses various advanced machine learning algorithms to identify the occurrence of a particular event in the future. A Data Scientist will look at the data from many angles, sometimes angles not known earlier.As you can see from the above image, a Data Analyst usually explains what is going on by processing history of the data. On the other hand, Data Scientist not only does the exploratory analysis to discover insights from it, but also uses various advanced machine learning algorithms to identify the occurrence of a particular event in the future. A Data Scientist will look at the data from many angles, sometimes angles not known earlier.</p>
+]]></content:encoded>
 					
 					<wfw:commentRss>https://mdshanewaz.github.io/WordPress_Proj-5/data-science/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Ecommerce</title>
+		<link>https://mdshanewaz.github.io/WordPress_Proj-5/ecommerce/</link>
+					<comments>https://mdshanewaz.github.io/WordPress_Proj-5/ecommerce/#respond</comments>
+		
+		<dc:creator><![CDATA[newaz]]></dc:creator>
+		<pubDate>Sat, 06 Mar 2021 07:08:48 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<guid isPermaLink="false">https://mdshanewaz.github.io/WordPress_Proj-5/?p=49</guid>
+
+					<description><![CDATA[As you can see from the above image, a Data Analyst usually explains what is going on by processing history of the data. On the other hand, Data Scientist not only does the exploratory analysis to discover insights from it, but also uses various advanced machine learning algorithms to identify the occurrence of a particular event [&#8230;]]]></description>
+										<content:encoded><![CDATA[
+<p>As you can see from the above image, a Data Analyst usually explains what is going on by processing history of the data. On the other hand, Data Scientist not only does the exploratory analysis to discover insights from it, but also uses various advanced machine learning algorithms to identify the occurrence of a particular event in the future. A Data Scientist will look at the data from many angles, sometimes angles not known earlier.As you can see from the above image, a Data Analyst usually explains what is going on by processing history of the data. On the other hand, Data Scientist not only does the exploratory analysis to discover insights from it, but also uses various advanced machine learning algorithms to identify the occurrence of a particular event in the future. A Data Scientist will look at the data from many angles, sometimes angles not known earlier.As you can see from the above image, a Data Analyst usually explains what is going on by processing history of the data. On the other hand, Data Scientist not only does the exploratory analysis to discover insights from it, but also uses various advanced machine learning algorithms to identify the occurrence of a particular event in the future. A Data Scientist will look at the data from many angles, sometimes angles not known earlier.As you can see from the above image, a Data Analyst usually explains what is going on by processing history of the data. On the other hand, Data Scientist not only does the exploratory analysis to discover insights from it, but also uses various advanced machine learning algorithms to identify the occurrence of a particular event in the future. A Data Scientist will look at the data from many angles, sometimes angles not known earlier.As you can see from the above image, a Data Analyst usually explains what is going on by processing history of the data. On the other hand, Data Scientist not only does the exploratory analysis to discover insights from it, but also uses various advanced machine learning algorithms to identify the occurrence of a particular event in the future. A Data Scientist will look at the data from many angles, sometimes angles not known earlier.As you can see from the above image, a Data Analyst usually explains what is going on by processing history of the data. On the other hand, Data Scientist not only does the exploratory analysis to discover insights from it, but also uses various advanced machine learning algorithms to identify the occurrence of a particular event in the future. A Data Scientist will look at the data from many angles, sometimes angles not known earlier.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://mdshanewaz.github.io/WordPress_Proj-5/ecommerce/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
